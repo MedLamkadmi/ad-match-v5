@@ -1,0 +1,3 @@
+list_item,expected_match,expected_price,expected_store
+no name Butter 454 g,EXACT,3.99,Food Basics
+Strawberries 1 lb,EXACT,2.99,Walmart

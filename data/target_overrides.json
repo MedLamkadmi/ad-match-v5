@@ -1,0 +1,32 @@
+{
+  "interpretations": {
+    "broccoli-28": {
+      "ignore_tokens": [
+        "28"
+      ],
+      "list_text": "Broccoli Crown 28",
+      "match_as": "Broccoli Crown",
+      "reason": "The '28' has no meaning; ignore it."
+    },
+    "eggs-18": {
+      "list_text": "Prestige Grade A LRG Eggs, EA",
+      "match_size": "18 count",
+      "quantity_count": 18,
+      "reason": "Quantity is 18 eggs; match against 18-count egg packs."
+    },
+    "oikos-multi": {
+      "accept_total_sizes": [
+        "4x95g",
+        "4x100g"
+      ],
+      "list_text": "Danone Oikos Multi 4x95 100g",
+      "reason": "Both 4x95g and 4x100g are valid matches."
+    },
+    "pint-12oz": {
+      "list_text": "Blueberries Pint",
+      "match_unit": "pint",
+      "reason": "Blueberries Pint matches pint containers ONLY (pint-to-pint unit matching, no gram conversion). Separate item from Blueberries 6 oz: never cross-match. Sizeless flyer titles stay UNVERIFIED."
+    }
+  },
+  "version": 1
+}

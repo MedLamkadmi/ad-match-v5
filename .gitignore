@@ -1,0 +1,18 @@
+# secrets — NEVER commit
+.env
+*.env
+
+# runtime outputs
+output/
+__pycache__/
+*.pyc
+*.pkl
+.pytest_cache/
+
+# local memory/state (regenerates weekly)
+data/memory/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

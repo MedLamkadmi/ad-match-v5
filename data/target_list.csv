@@ -1,0 +1,70 @@
+name,target_size,note,raw
+Strawberries,1 lb,,Strawberries 1 lb
+Neilson TruTaste,4 l,,Neilson TruTaste 4 l
+Raspberries,6 oz,,Raspberries 6 oz
+Black Diamond Bars 400 g or Shreds 300-340 g,400 g or 300-340 g,OR-item: branches carry their own sizes,Black Diamond Bars 400 g or Shreds 300-340 g
+Lactantia Butter,454 g,,Lactantia Butter 454 g
+Blueberries,Pint,,Blueberries Pint
+Avocado Bag,5 pk,,Avocado Bag 5 pk
+Prime Time Red Seedless Watermelon,1 ea,,Prime Time Red Seedless Watermelon 1 ea
+Cucumber English,1 ea,,Cucumber English 1 ea
+Romaine Heart,3pk,,Romaine Heart 3pk
+Blackberries,6 oz,,Blackberries 6 oz
+"Lay's Potato Chips, Wavy or Oven Baked",177-255 g,OR-item,"Lay's Potato Chips, Wavy or Oven Baked 177-255 g"
+Gay Lea Butter,454 g,,Gay Lea Butter 454 g
+Coke,6x710 ml,,Coke 6x710 ml
+"Janes Frozen Chicken Strips, Burgers, or Nuggets",700 g,OR-item,"Janes Frozen Chicken Strips, Burgers, or Nuggets 700 g"
+Maple Leaf or Schneiders Bacon,375 g,OR-item,Maple Leaf or Schneiders Bacon 375 g
+Broccoli Crown 28,,AMBIGUOUS: '28' has no meaning; see overrides broccoli-28,Broccoli Crown 28
+Cauliflower,1 ea,,Cauliflower 1 ea
+Taylor Farms Chopped Salad Kits,267-383 g,,Taylor Farms Chopped Salad Kits 267-383 g
+Cantaloupe,1 ea,,Cantaloupe 1 ea
+Pepsi,6x710 ml,,Pepsi 6x710 ml
+Coke,24x355 ml,,Coke 24x355 ml
+"Prestige Grade A LRG Eggs, EA",EA,AMBIGUOUS: quantity unclear from text; see overrides eggs-18,"Prestige Grade A LRG Eggs, EA"
+Lean Ground Beef 2pk Brick,2pk,AMBIGUOUS: no weight; size kept exactly as written,Lean Ground Beef 2pk Brick
+Danone Oikos Multi 4x95 100g,4x95 100g,AMBIGUOUS: size unclear; see overrides oikos-multi,Danone Oikos Multi 4x95 100g
+Gallo Extra Virgin Olive Oil,1 l,,Gallo Extra Virgin Olive Oil 1 l
+Classico Pasta Sauce,410-650ml,,Classico Pasta Sauce 410-650ml
+Blueberries,6 oz,,Blueberries 6 oz
+Ruffles Potato Chips,180-220 g,,Ruffles Potato Chips 180-220 g
+Cashmere Bathroom Tissue,12=24,,Cashmere Bathroom Tissue 12=24
+Royale Bathroom Tissue,30=60,,Royale Bathroom Tissue 30=60
+Kawartha,1500 ml,AMBIGUOUS: no product type (NOT assumed); match on size + brand context only,Kawartha 1500 ml
+Pepsi,24 pk,,Pepsi 24 pk
+Bubly,12x355 ml,,Bubly 12x355 ml
+Robin Hood or Five Roses Flour,10kg,OR-item,Robin Hood or Five Roses Flour 10kg
+Tide Simply Liquid,2.72 l,,Tide Simply Liquid 2.72 l
+Timothy's K-Cup,30 pk,,Timothy's K-Cup 30 pk
+Kicking Horse Coffee,454 g,,Kicking Horse Coffee 454 g
+Gain Liquid Laundry Detergent,4.25 l,,Gain Liquid Laundry Detergent 4.25 l
+Tide Liquid Laundry Detergent,3.46-3.90 l,,Tide Liquid Laundry Detergent 3.46-3.90 l
+Bounty Paper Towel,8=24,,Bounty Paper Towel 8=24
+Purex Liquid Laundry Detergent,4.43 l,,Purex Liquid Laundry Detergent 4.43 l
+Allen's Prisma,1 l,,Allen's Prisma 1 l
+Schneiders Ham,700 g,,Schneiders Ham 700 g
+Huggies Diapers,60-208 ct,,Huggies Diapers 60-208 ct
+Dr Oetker Ristorante Pizza,300-390 g,,Dr Oetker Ristorante Pizza 300-390 g
+Ziploc Mega Packs,60-270 ct,,Ziploc Mega Packs 60-270 ct
+Kraft Spreads Peanut Butter,750 g - 1 kg,,Kraft Spreads Peanut Butter 750 g - 1 kg
+Doritos Tortilla Chips,150-280 g,,Doritos Tortilla Chips 150-280 g
+Neilson Creamer,1 l,,Neilson Creamer 1 l
+Wonder Bread Sandwich Texas,500-675 g,,Wonder Bread Sandwich Texas 500-675 g
+PC Gourmet Coffee,800 - 930 g,,PC Gourmet Coffee 800 - 930 g
+Coke,12x355 ml,,Coke 12x355 ml
+Chapmans Premium Ice Cream,2 l,,Chapmans Premium Ice Cream 2 l
+White Potatoes,10 lb,,White Potatoes 10 lb
+Tostitos Tortilla Chips,210-300 g,,Tostitos Tortilla Chips 210-300 g
+Cherries Red,1 kg,,Cherries Red 1 kg
+Grade A Eggs Large White,12 ct,,Grade A Eggs Large White 12 ct
+Danone Oikos Tubs,650-750 g,,Danone Oikos Tubs 650-750 g
+no name Butter,454 g,,no name Butter 454 g
+Farmers Market Peppers,4 ct,,Farmers Market Peppers 4 ct
+Celery Stalks,,AMBIGUOUS: no size; match any size,Celery Stalks
+Quaker Rice Cakes,90-199 g,,Quaker Rice Cakes 90-199 g
+Lemon,2 lb,,Lemon 2 lb
+Kraft Cream Cheese,227-250 g,,Kraft Cream Cheese 227-250 g
+Becel Margarine,907 g,,Becel Margarine 907 g
+Country Harvest Bread,570-650 g,,Country Harvest Bread 570-650 g
+Pineapple,1 ea,,Pineapple 1 ea
+Lettuce Iceberg,1 ea,,Lettuce Iceberg 1 ea
